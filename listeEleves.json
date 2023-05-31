@@ -1,0 +1,9 @@
+[
+    {"id_etudiant": "00", "nom": "Aucun étudiant sélectionné",  "session": "1", "cours": []},
+    {"id_etudiant": "01", "nom": "Jean", "session": "1", "cours": ["Prog1"]}, 
+    {"id_etudiant": "02", "nom":"Alice", "session": "2", "cours": ["Prog2"]},
+    {"id_etudiant": "03", "nom": "Georgia", "session": "3", "cours": ["React-native"]},
+    {"id_etudiant": "04", "nom": "Carlos", "session": "4", "cours": ["NodeJs"]},
+    {"id_etudiant": "05", "nom": "Bianca", "session": "5", "cours": ["Html-Ccss"]},
+    {"id_etudiant": "06", "nom": "Otavio", "session": "6", "cours": ["Html-Ccss"]}
+]
